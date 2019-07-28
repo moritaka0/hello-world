@@ -1,3 +1,4 @@
 # hello-world
 tutorial
-Hi I'm Taahiro Mori, SE
+Hi I'm Takhiro Mori, SE
+I like python
